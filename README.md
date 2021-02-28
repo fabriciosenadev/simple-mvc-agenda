@@ -1,5 +1,3 @@
-# simple-mvc-agenda
-
 ## Simple MVC agenda, C# application
 This is a simples project with finality to learn and study C#, OO paradigm and MVC achiteture.
 
