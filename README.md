@@ -3,7 +3,7 @@ This is a simples project with finality to learn and study C#, OO paradigm and M
 
 ## Requirements
 - DB: To run this project you need MySQL installed on your computer.
-- Dependecies: To run this project you need to install Pomelo's package running command below:
+- Dependecies: To run this project you need to install Pomelo's package running command:
 ```Install-Package Pomelo.EntityFrameworkCore.MySql -Version 2.1.1```
 
 ## Version
